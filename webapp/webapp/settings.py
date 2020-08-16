@@ -25,7 +25,7 @@ SECRET_KEY = 'anjnj-f3@ugw+=6p1vha1b5(xdbz!b-4b@m*x84cdw(fmqaa29'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mayankrathore.pythonanywhere.com','localhost']
 
 
 # Application definition
